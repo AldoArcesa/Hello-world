@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\Helloworld2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\aarce7\\Source\\Repos\\Hello-world\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\git\\Helloworld2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\aarce7\\Source\\Repos\\Hello-world\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\aarce7\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\Helloworld2\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\aarce7\\Source\\Repos\\Hello-world\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aarce7\\AppData\\Roaming\\NuGet\\NuGet.Config",

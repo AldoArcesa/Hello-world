@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\aarce7\Source\Repos\Hello-world\WebApplication1\WebApplication1\
+build_property.ProjectDir = C:\Users\aarce7\source\repos\Hello-world\WebApplication1\WebApplication1\
